@@ -1,0 +1,7 @@
+uma maneira fácil de verificar se o Homebrew está instalado no seu Mac. Abra o Terminal e digite o seguinte comando:
+
+brew -v
+
+Isso mostrará a versão do Homebrew instalada no seu sistema. 
+
+Caso não, retornará erro
